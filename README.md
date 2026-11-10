@@ -9,8 +9,8 @@
 1. Клонувати репозиторій:
 
    ```bash
-   git clone https://github.com bedrovkyrylo/TRSK-LAB1.git
-   cd НАЗВА_РЕПОЗИТОРІЮ
+   git clone https://github.com/bedrovkyrylo/TRSK-LAB1.git
+   cd TRSK-LAB1
    ```
 
 2. Запустити:
